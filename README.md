@@ -33,10 +33,6 @@
 <a href="mailto:aleksbitcov@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30" />
 </a>
-<!--
-## 📫 Контакты
-- 📧 Email: example@email.com
-- 💼 LinkedIn: [ТВОЙ ЛИНКЕДИН](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
-- 💬 Telegram: [@ТВОЙ_ТГ](https://t.me/ТВОЙ_ТГ)
 
-Буду рад сотрудничеству и интересным проектам! 🚀 -->
+- 💬 Telegram: [@aleksbitkov](https://t.me/aleksbitkov)
+Буду радий співпраці та цікавим проектам!
