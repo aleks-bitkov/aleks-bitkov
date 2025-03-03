@@ -34,5 +34,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30" />
 </a>
 
-- 💬 Telegram: [@aleksbitkov](https://t.me/aleksbitkov)
+
 Буду радий співпраці та цікавим проектам!
