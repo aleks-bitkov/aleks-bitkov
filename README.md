@@ -30,6 +30,9 @@
 <a href="https://t.me/aleksbitkov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="30" height="30" />
 </a>
+<a href="mailto:aleksbitcov@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Logo_2023.svg" alt="Gmail" width="30" height="30" />
+</a>
 <!--
 ## 📫 Контакты
 - 📧 Email: example@email.com
