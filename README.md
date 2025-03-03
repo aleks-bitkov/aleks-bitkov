@@ -31,18 +31,19 @@
 Заглянь у мій GitHub — там ще багато цікавого! 😎
 
 ## Зв'язок зі мною
-<a href="https://t.me/aleksbitkov" target="_blank"  style="margin-right: 10px; text-decoration:none">
+<a href="https://t.me/aleksbitkov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="30" height="30"/>
-</a>
-<a href="https://www.instagram.com/aleks.bitkov/" target="_blank" style="margin-right: 10px; text-decoration:none">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Gmail" width="30" height="30" />
-</a>                     
-<a href="mailto:aleksbitcov@gmail.com" target="_blank" style="margin-right: 10px;text-decoration:none">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/aleks.bitkov/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="30" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:aleksbitcov@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aleksandr-bitkov-033505354" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn" width="30" height="30"/>
 </a>
-<a href="www.linkedin.com/in/aleksandr-bitkov-033505354" target="_blank" style="margin-right: 10px;text-decoration:none">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="Gmail" width="30" height="30" style="margin-right: 10px" />
-</a>
+
 
 
 
